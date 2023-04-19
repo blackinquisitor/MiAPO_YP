@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bogda\\RiderProjects\\ConsoleApp-YP\\ConsoleApp-YP\\ConsoleApp-YP.csproj",
+      "projectUniqueName": "C:\\Users\\bogda\\RiderProjects\\Practika\\MiAPO_YP\\ConsoleApp-YP\\ConsoleApp-YP\\ConsoleApp-YP.csproj",
       "projectName": "ConsoleApp-YP",
-      "projectPath": "C:\\Users\\bogda\\RiderProjects\\ConsoleApp-YP\\ConsoleApp-YP\\ConsoleApp-YP.csproj",
+      "projectPath": "C:\\Users\\bogda\\RiderProjects\\Practika\\MiAPO_YP\\ConsoleApp-YP\\ConsoleApp-YP\\ConsoleApp-YP.csproj",
       "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bogda\\RiderProjects\\ConsoleApp-YP\\ConsoleApp-YP\\obj\\",
+      "outputPath": "C:\\Users\\bogda\\RiderProjects\\Practika\\MiAPO_YP\\ConsoleApp-YP\\ConsoleApp-YP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config"

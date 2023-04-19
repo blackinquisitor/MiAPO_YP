@@ -1,4 +1,5 @@
 ﻿using System;
+using ConsoleApp_YP.Functions;
 
 namespace ConsoleApp_YP
 {
@@ -21,10 +22,11 @@ namespace ConsoleApp_YP
                     {
                         Console.WriteLine("Введите число для факторила");
                         int digital = Convert.ToInt32(Console.ReadLine());
-                        
+                        Factorial factorial = new Factorial(digital);
+                        Factorial.Display();
                         break;
                     }
-                    case 2:
+                    /*case 2:
                     {
                         Image image = new Image(); 
                         break;
@@ -33,7 +35,7 @@ namespace ConsoleApp_YP
                     {
                         Game game = new Game();
                         break;
-                    }
+                    }*/
                     default:
                     {
                         Console.Clear();
