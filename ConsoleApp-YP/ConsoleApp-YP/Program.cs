@@ -58,4 +58,3 @@ namespace ConsoleApp_YP
         } 
     }
 }
-}
