@@ -26,13 +26,17 @@ namespace ConsoleApp_YP
                         Factorial.Display();
                         break;
                     }
-                    /*case 2:
+                    case 2:
                     {
-                        Image image = new Image(); 
+                        Console.WriteLine("Введите высоуту");
+                        int sizeY = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("Введите длину");
+                        int sizeX = Convert.ToInt32(Console.ReadLine());
+                        Image image = new Image(sizeY, sizeX); 
                         break;
                     }
                     case 3:
-                    {
+                    /*{
                         Game game = new Game();
                         break;
                     }*/
